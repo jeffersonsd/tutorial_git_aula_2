@@ -1,1 +1,4 @@
 me_ignore.txt
+*.py            -> ignora todos os arquivos com extensao .py
+!aruivo_03.py   -> usando a exclamacao, esse unico arquivo nao e ignorado
+pasta_teste/    -> com a barra, ignora a pasta setada
